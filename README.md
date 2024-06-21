@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to better myself as a programmer
 - 🌱 I’m currently undertaking courses from freecodecamp
 - 😄 Pronouns: He/Him/Deez
-- ⚡ Fun fact: I am on of the people of all time
+- ⚡ Fun fact: I am one of the people of all time
 
 <!---
 - 💞️ I’m looking to collaborate on ...
