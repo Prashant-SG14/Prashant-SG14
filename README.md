@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant-SG14
 - 👀 I’m interested in learning how to better myself as a programmer
-- 🌱 I’m currently undertaking courses from freecodecamp
+- 🌱 I’m currently not doing so good
 - 😄 Pronouns: He/Him/Deez
 - ⚡ Fun fact: I am one of the people of all time
 
