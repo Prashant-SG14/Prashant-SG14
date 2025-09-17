@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prashant-SG14
 - 👀 I’m interested in learning how to better myself as a programmer
-- 🌱 I’m currently not doing so good
-- 😄 Pronouns: He/Him/Deez
+- 🌱 I’m currently not doing so good, still
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am one of the people of all time
 
 <!---
