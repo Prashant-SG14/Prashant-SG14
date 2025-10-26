@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I am one of the people of all time
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Prashant-SG14)
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant-sg14&show_icons=true&theme=transparent)
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant-sg14&show_icons=true&theme=dark)
 
 
 <!---
